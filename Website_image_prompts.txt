@@ -1,0 +1,7 @@
+1. Generate a visually appealing and user-friendly design for a static website showcasing various types of clothes.
+2. Create an image prompt for the homepage: A captivating banner image featuring a collage of stylish outfits, fashion accessories, and trends.
+3. For category pages (e.g., Men, Women, Kids): Generate image prompts for each page with images displaying models wearing different types of clothing items, such as shirts, pants, dresses, shoes, etc.
+4. Design an About Us page: A professional headshot or team photo with a brief description of the company's mission and values.
+5. Create image prompts for Contact Us and Services pages: A contact form along with images conveying a sense of approachability and accessibility (e.g., customer service representatives, phone, or email icons).
+6. Design a footer: Include a logo, social media links, and a copyright notice.
+7. Create image prompts for error pages: A friendly and engaging error message with an image related to the website's theme (e.g., a clothing item or model).
