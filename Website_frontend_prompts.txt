@@ -1,12 +1,34 @@
-1. Create an HTML structure for the landing page of a clothing website, including header, main content area, and footer sections. Use semantic HTML elements to ensure accessibility.
-2. Design a responsive header component using HTML and CSS, including a logo, navigation menu, and search bar.
-3. Develop a responsive carousel for displaying featured clothing items on the landing page using HTML, CSS, and JavaScript.
-4. Implement a responsive grid layout using Flexbox or CSS Grid to showcase different clothing categories with images and names.
-5. Design and build a responsive product detail page using HTML, CSS, and JavaScript, including image zoom functionality, size chart integration, and a form for adding items to the cart.
-6. Create a footer component using HTML and CSS, including links to social media profiles and a newsletter sign-up form.
-7. Set up local storage to save user preferences and shopping cart data, ensuring that all changes are reflected on the page in real time.
-8. Optimize the website for various screen sizes and resolutions, ensuring that it looks great and functions well on desktops, tablets, and mobile devices.
-9. Write clean and efficient JavaScript code to handle user interactions, such as opening/closing the navigation menu, scrolling to different sections of the page, and updating the shopping cart.
-10. Use a preprocessor like SASS or LESS to write reusable CSS styles and variables, and use CSS custom properties (variables) for easy theme customization.
-11. Write accessible HTML markup for all UI components and ensure that all form elements have appropriate labels and ARIA attributes.
-12. Use a linter like ESLint or Prettier to ensure consistent and high-quality code throughout the project, following best practices in html,css,js development.
+[
+  {
+    "file": "index.html",
+    "prompt": "Create the base structure of index.html with doctype, html, head and body elements. Add a header and main content area for your clothes website. Use semantic HTML5 markup to ensure accessibility."
+  },
+  {
+    "file": "styles.css",
+    "prompt": "Write the styles for the header and main content area in styles.css. Make sure it's mobile-responsive and adheres to modern design principles such as using variables, flexbox, and grid system."
+  },
+  {
+    "file": "scripts.js",
+    "prompt": "In scripts.js, write the JavaScript logic for handling user interactions like filtering clothes by category or sorting by price. Make sure to separate concerns and use ES6 modules where appropriate."
+  },
+  {
+    "file": "header/logo.html",
+    "prompt": "Build the logo component in header/logo.html using HTML, CSS. Ensure it's clickable and leads to the homepage when clicked."
+  },
+  {
+    "file": "header/navigation.html",
+    "prompt": "Create the navigation menu component in header/navigation.html using HTML and CSS. Make sure it is accessible via keyboard and has a proper tab order."
+  },
+  {
+    "file": "main/clothes-list.html",
+    "prompt": "Build the clothes list component in main/clothes-list.html using HTML, CSS, and JavaScript. Fetch data from local storage or backend API to display clothes items."
+  },
+  {
+    "file": "main/clothes-item.html",
+    "prompt": "Create the individual clothes item component in main/clothes-item.html using HTML, CSS, and JavaScript. Make sure each component can handle user interactions like adding to cart or viewing details."
+  },
+  {
+    "file": "footer/contact.html",
+    "prompt": "Build the contact information component in footer/contact.html using HTML, CSS, and possibly a Google Maps API integration if needed. Make sure it's easily accessible from all pages."
+  }
+]
